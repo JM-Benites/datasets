@@ -4,190 +4,190 @@
 	"estreno": 2008,
 	"presupuesto": 140000000,
 	"ingreso_mundial": 585174222,
-	"IMDb_recepcion_publico": 7.9,
-	
+	"IMDb_recepcion_publico": 7.9
+
 }, {
 	"fase": 1,
 	"pelicula": "The Incredible Hulk",
 	"estreno": 2008,
 	"presupuesto": 150000000,
 	"ingreso_mundial": 263427551,
-	"IMDb_recepcion_publico": 6.6,
+	"IMDb_recepcion_publico": 6.6
 }, {
 	"fase": 1,
 	"pelicula": "Iron Man 2",
 	"estreno": 2010,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 623933331,
-	"IMDb_recepcion_publico": 7,
+	"IMDb_recepcion_publico": 7
 }, {
 	"fase": 1,
 	"pelicula": "Thor",
 	"estreno": 2011,
 	"presupuesto": 150000000,
 	"ingreso_mundial": 449326618,
-	"IMDb_recepcion_publico": 7,
+	"IMDb_recepcion_publico": 7
 }, {
 	"fase": 1,
 	"pelicula": "Captain America: The First Avenger",
 	"estreno": 2011,
 	"presupuesto": 140000000,
 	"ingreso_mundial": 370569774,
-	"IMDb_recepcion_publico": 6.9,
+	"IMDb_recepcion_publico": 6.9
 }, {
 	"fase": 1,
 	"pelicula": "The Avengers",
 	"estreno": 2012,
 	"presupuesto": 220000000,
 	"ingreso_mundial": 1518812988,
-	"IMDb_recepcion_publico": 8,
+	"IMDb_recepcion_publico": 8
 }, {
 	"fase": 2,
 	"pelicula": "Iron Man 3",
 	"estreno": 2013,
 	"presupuesto": 178000000,
 	"ingreso_mundial": 1214811252,
-	"IMDb_recepcion_publico": 7.1,
+	"IMDb_recepcion_publico": 7.1
 }, {
 	"fase": 2,
 	"pelicula": "Thor: The Dark World",
 	"estreno": 2013,
 	"presupuesto": 152000000,
 	"ingreso_mundial": 644571402,
-	"IMDb_recepcion_publico": 6.8,
+	"IMDb_recepcion_publico": 6.8
 }, {
 	"fase": 2,
 	"pelicula": "Captain America: The Winter Soldier",
 	"estreno": 2014,
 	"presupuesto": 177000000,
 	"ingreso_mundial": 714264267,
-	"IMDb_recepcion_publico": 7.7,
+	"IMDb_recepcion_publico": 7.7
 }, {
 	"fase": 2,
 	"pelicula": "Guardians of the Galaxy",
 	"estreno": 2014,
 	"presupuesto": 195000000,
 	"ingreso_mundial": 773328629,
-	"IMDb_recepcion_publico": 7.6,
+	"IMDb_recepcion_publico": 7.6
 }, {
 	"fase": 2,
 	"pelicula": "Avengers: Age of Ultron",
 	"estreno": 2015,
 	"presupuesto": 365000000,
 	"ingreso_mundial": 1405403694,
-	"IMDb_recepcion_publico": 7.3,
+	"IMDb_recepcion_publico": 7.3
 }, {
 	"fase": 2,
 	"pelicula": "Ant-Man",
 	"estreno": 2015,
 	"presupuesto": 109000000,
 	"ingreso_mundial": 519311965,
-	"IMDb_recepcion_publico": 7.3,
+	"IMDb_recepcion_publico": 7.3
 }, {
 	"fase": 3,
 	"pelicula": "Captain America: Civil War",
 	"estreno": 2016,
 	"presupuesto": 230000000,
 	"ingreso_mundial": 1153304495,
-	"IMDb_recepcion_publico": 7.8,
+	"IMDb_recepcion_publico": 7.8
 }, {
 	"fase": 3,
 	"pelicula": "Doctor Strange",
 	"estreno": 2016,
 	"presupuesto": 165000000,
 	"ingreso_mundial": 677718395,
-	"IMDb_recepcion_publico": 7.5,
+	"IMDb_recepcion_publico": 7.5
 }, {
 	"fase": 3,
 	"pelicula": "Guardians of the Galaxy Vol. 2",
 	"estreno": 2017,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 863756051,
-	"IMDb_recepcion_publico": 7.6,
+	"IMDb_recepcion_publico": 7.6
 }, {
 	"fase": 3,
 	"pelicula": "Spider-Man: Homecoming",
 	"estreno": 2017,
 	"presupuesto": 175000000,
 	"ingreso_mundial": 880166924,
-	"IMDb_recepcion_publico": 7.4,
+	"IMDb_recepcion_publico": 7.4
 }, {
 	"fase": 3,
 	"pelicula": "Thor: Ragnarok",
 	"estreno": 2017,
 	"presupuesto": 180000000,
 	"ingreso_mundial": 853977126,
-	"IMDb_recepcion_publico": 7.9,
+	"IMDb_recepcion_publico": 7.9
 }, {
 	"fase": 3,
 	"pelicula": "Black Panther",
 	"estreno": 2018,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 1346913161,
-	"IMDb_recepcion_publico": 7.3,
+	"IMDb_recepcion_publico": 7.3
 }, {
 	"fase": 3,
 	"pelicula": "Avengers: Infinity War",
 	"estreno": 2018,
 	"presupuesto": 350000000,
 	"ingreso_mundial": 2048359754,
-	"IMDb_recepcion_publico": 8.4,
+	"IMDb_recepcion_publico": 8.4
 }, {
 	"fase": 3,
 	"pelicula": "Ant-Man and the Wasp",
 	"estreno": 2018,
 	"presupuesto": 162000000,
 	"ingreso_mundial": 622674139,
-	"IMDb_recepcion_publico": 7,
+	"IMDb_recepcion_publico": 7
 }, {
 	"fase": 3,
 	"pelicula": "Captain Marvel",
 	"estreno": 2019,
 	"presupuesto": 175000000,
 	"ingreso_mundial": 1128274794,
-	"IMDb_recepcion_publico": 6.8,
+	"IMDb_recepcion_publico": 6.8
 }, {
 	"fase": 3,
 	"pelicula": "Avengers: Endgame",
 	"estreno": 2019,
 	"presupuesto": 360000000,
 	"ingreso_mundial": 2798274401,
-	"IMDb_recepcion_publico": 8.4,
+	"IMDb_recepcion_publico": 8.4
 }, {
 	"fase": 3,
 	"pelicula": "Spider-Man: Far From Home",
 	"estreno": 2019,
 	"presupuesto": 160000000,
 	"ingreso_mundial": 1131524267,
-	"IMDb_recepcion_publico": 7.4,
+	"IMDb_recepcion_publico": 7.4
 }, {
 	"fase": 4,
 	"pelicula": "Black Widow",
 	"estreno": 2021,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 504751655,
-	"IMDb_recepcion_publico": 6.8,
+	"IMDb_recepcion_publico": 6.8
 }, {
 	"fase": 4,
 	"pelicula": "Shang-Chi�and the Legend of the Ten Rings",
 	"estreno": 2021,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 432243292,
-	"IMDb_recepcion_publico": 7.5,
+	"IMDb_recepcion_publico": 7.5
 }, {
 	"fase": 4,
 	"pelicula": "Eternals",
 	"estreno": 2021,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 402064899,
-	"IMDb_recepcion_publico": 6.5,
+	"IMDb_recepcion_publico": 6.5
 }, {
 	"fase": 4,
 	"pelicula": "Spider-Man: No Way Home",
 	"estreno": 2021,
 	"presupuesto": 200000000,
 	"ingreso_mundial": 1892416709,
-	"IMDb_recepcion_publico": 8.7,
+	"IMDb_recepcion_publico": 8.7
 }, {
 	"serie": "  Agents of S.H.I.E.L.D.",
 	"estreno": 2013,
