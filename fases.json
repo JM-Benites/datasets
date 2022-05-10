@@ -1,1 +1,134 @@
-[{"fase":1,"nombre":"Agents of S.H.I.E.L.D.","":null},{"fase":1,"nombre":"Agent Carter","":null},{"fase":1,"nombre":"Daredevil","":null},{"fase":2,"nombre":"Jessica Jones","":null},{"fase":2,"nombre":"Luke Cage","":null},{"fase":2,"nombre":"Iron Fist","":null},{"fase":3,"nombre":"The Defenders","":null},{"fase":3,"nombre":"Inhumans","":null},{"fase":3,"nombre":"The Punisher","":null},{"fase":3,"nombre":"Runaways","":null},{"fase":3,"nombre":"Cloak & Dagger","":null},{"fase":4,"nombre":"WandaVision","":null},{"fase":4,"nombre":"The Falcon and the Winter Soldier","":null},{"fase":4,"nombre":"Loki","":null},{"fase":4,"nombre":"What If...?","":null},{"fase":4,"nombre":"Hawkeye","":null},{"fase":4,"nombre":"Moon Knight","":null},{"fase":1,"nombre":"Iron Man","":null},{"fase":1,"nombre":"The Incredible Hulk","":null},{"fase":1,"nombre":"Iron Man 2","":null},{"fase":1,"nombre":"Thor","":null},{"fase":1,"nombre":"Captain America: The First Avenger","":null},{"fase":1,"nombre":"The Avengers","":null},{"fase":2,"nombre":"Iron Man 3","":null},{"fase":2,"nombre":"Thor: The Dark World","":null},{"fase":2,"nombre":"Captain America: The Winter Soldier","":null},{"fase":2,"nombre":"Guardians of the Galaxy","":null},{"fase":2,"nombre":"Avengers: Age of Ultron","":null},{"fase":2,"nombre":"Ant-Man","":null},{"fase":3,"nombre":"Captain America: Civil War","":null},{"fase":3,"nombre":"Doctor Strange","":null},{"fase":3,"nombre":"Guardians of the Galaxy Vol. 2","":null},{"fase":3,"nombre":"Spider-Man: Homecoming","":null},{"fase":3,"nombre":"Thor: Ragnarok","":null},{"fase":3,"nombre":"Black Panther","":null},{"fase":3,"nombre":"Avengers: Infinity War","":null},{"fase":3,"nombre":"Ant-Man and the Wasp","":null},{"fase":3,"nombre":"Captain Marvel","":null},{"fase":3,"nombre":"Avengers: Endgame","":null},{"fase":3,"nombre":"Spider-Man: Far From Home","":null},{"fase":4,"nombre":"Black Widow","":null},{"fase":4,"nombre":"Shang-Chi and the Legend of the Ten Rings","":null},{"fase":4,"nombre":"Eternals","":null},{"fase":4,"nombre":"Spider-Man: No Way Home","":null},{"fase":null,"nombre":null,"":null},{"fase":null}]
+[{
+	"fase": 1,
+	"nombre": "Agents of S.H.I.E.L.D."
+}, {
+	"fase": 1,
+	"nombre": "Agent Carter"
+}, {
+	"fase": 1,
+	"nombre": "Daredevil"
+}, {
+	"fase": 2,
+	"nombre": "Jessica Jones"
+}, {
+	"fase": 2,
+	"nombre": "Luke Cage"
+}, {
+	"fase": 2,
+	"nombre": "Iron Fist"
+}, {
+	"fase": 3,
+	"nombre": "The Defenders"
+}, {
+	"fase": 3,
+	"nombre": "Inhumans"
+}, {
+	"fase": 3,
+	"nombre": "The Punisher"
+}, {
+	"fase": 3,
+	"nombre": "Runaways"
+}, {
+	"fase": 3,
+	"nombre": "Cloak & Dagger"
+}, {
+	"fase": 4,
+	"nombre": "WandaVision"
+}, {
+	"fase": 4,
+	"nombre": "The Falcon and the Winter Soldier"
+}, {
+	"fase": 4,
+	"nombre": "Loki"
+}, {
+	"fase": 4,
+	"nombre": "What If...?"
+}, {
+	"fase": 4,
+	"nombre": "Hawkeye"
+}, {
+	"fase": 4,
+	"nombre": "Moon Knight"
+}, {
+	"fase": 1,
+	"nombre": "Iron Man"
+}, {
+	"fase": 1,
+	"nombre": "The Incredible Hulk"
+}, {
+	"fase": 1,
+	"nombre": "Iron Man 2"
+}, {
+	"fase": 1,
+	"nombre": "Thor"
+}, {
+	"fase": 1,
+	"nombre": "Captain America: The First Avenger"
+}, {
+	"fase": 1,
+	"nombre": "The Avengers"
+}, {
+	"fase": 2,
+	"nombre": "Iron Man 3"
+}, {
+	"fase": 2,
+	"nombre": "Thor: The Dark World"
+}, {
+	"fase": 2,
+	"nombre": "Captain America: The Winter Soldier"
+}, {
+	"fase": 2,
+	"nombre": "Guardians of the Galaxy"
+}, {
+	"fase": 2,
+	"nombre": "Avengers: Age of Ultron"
+}, {
+	"fase": 2,
+	"nombre": "Ant-Man"
+}, {
+	"fase": 3,
+	"nombre": "Captain America: Civil War"
+}, {
+	"fase": 3,
+	"nombre": "Doctor Strange"
+}, {
+	"fase": 3,
+	"nombre": "Guardians of the Galaxy Vol. 2"
+}, {
+	"fase": 3,
+	"nombre": "Spider-Man: Homecoming"
+}, {
+	"fase": 3,
+	"nombre": "Thor: Ragnarok"
+}, {
+	"fase": 3,
+	"nombre": "Black Panther"
+}, {
+	"fase": 3,
+	"nombre": "Avengers: Infinity War"
+}, {
+	"fase": 3,
+	"nombre": "Ant-Man and the Wasp"
+}, {
+	"fase": 3,
+	"nombre": "Captain Marvel"
+}, {
+	"fase": 3,
+	"nombre": "Avengers: Endgame"
+}, {
+	"fase": 3,
+	"nombre": "Spider-Man: Far From Home"
+}, {
+	"fase": 4,
+	"nombre": "Black Widow"
+}, {
+	"fase": 4,
+	"nombre": "Shang-Chi and the Legend of the Ten Rings"
+}, {
+	"fase": 4,
+	"nombre": "Eternals"
+}, {
+	"fase": 4,
+	"nombre": "Spider-Man: No Way Home"
+
+}]
