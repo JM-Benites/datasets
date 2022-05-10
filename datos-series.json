@@ -2,110 +2,87 @@
 	"fase": 1,
 	"serie": "Agents of S.H.I.E.L.D.",
 	"estreno": 2013,
-	"IMDb": 7.5,
-	"": null
+	"IMDb": 7.5
 }, {
 	"fase": 1,
 	"serie": "Agent Carter",
 	"estreno": 2015,
-	"IMDb": 7.9,
-	"": null
+	"IMDb": 7.9
 }, {
 	"fase": 1,
 	"serie": "Daredevil",
 	"estreno": 2015,
-	"IMDb": 8.6,
-	"": null
+	"IMDb": 8.6
 }, {
 	"fase": 2,
 	"serie": "Jessica Jones",
 	"estreno": 2015,
-	"IMDb": 7.9,
-	"": null
+	"IMDb": 7.9
 }, {
 	"fase": 2,
 	"serie": "Luke Cage",
 	"estreno": 2016,
-	"IMDb": 7.3,
-	"": null
+	"IMDb": 7.3
 }, {
 	"fase": 2,
 	"serie": "Iron Fist",
 	"estreno": 2017,
-	"IMDb": 6.5,
-	"": null
+	"IMDb": 6.5
 }, {
 	"fase": 3,
 	"serie": "The Defenders",
 	"estreno": 2017,
-	"IMDb": 7.3,
-	"": null
+	"IMDb": 7.3
 }, {
 	"fase": 3,
 	"serie": "Inhumans",
 	"estreno": 2017,
-	"IMDb": 5,
-	"": null
+	"IMDb": 5
 }, {
 	"fase": 3,
 	"serie": "The Punisher",
 	"estreno": 2017,
-	"IMDb": 8.5,
-	"": null
+	"IMDb": 8.5
 }, {
 	"fase": 3,
 	"serie": "Runaways",
 	"estreno": 2017,
-	"IMDb": 7,
-	"": null
+	"IMDb": 7
 }, {
 	"fase": 3,
 	"serie": "Cloak & Dagger",
 	"estreno": 2018,
-	"IMDb": 6.7,
-	"": null
+	"IMDb": 6.7
 }, {
 	"fase": 4,
 	"serie": "WandaVision",
 	"estreno": 2021,
-	"IMDb": 8,
-	"": null
+	"IMDb": 8
 }, {
 	"fase": 4,
 	"serie": "The Falcon and the Winter Soldier",
 	"estreno": 2021,
-	"IMDb": 7.3,
-	"": null
+	"IMDb": 7.3
 }, {
 	"fase": 4,
 	"serie": "Loki",
 	"estreno": 2021,
-	"IMDb": 8.3,
-	"": null
+	"IMDb": 8.3
 }, {
 	"fase": 4,
 	"serie": "What If...?",
 	"estreno": 2021,
-	"IMDb": 7.5,
-	"": null
+	"IMDb": 7.5
 }, {
 	"fase": 4,
 	"serie": "Hawkeye",
 	"estreno": 2021,
-	"IMDb": 7.6,
-	"": null
+	"IMDb": 7.6
 }, {
 	"fase": 4,
 	"serie": "Moon Knight",
 	"estreno": 2021,
-	"IMDb": 7.7,
-	"": null
+	"IMDb": 7.7
 }, {
-	"fase": null,
-	"serie": null,
-	"estreno": null,
-	"IMDb": null,
-	"": null
-}, {
-	"fase": null
+
 }]
